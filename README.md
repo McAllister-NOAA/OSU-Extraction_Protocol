@@ -1,6 +1,6 @@
 # OSU-Extraction_Protocol
 
-**NOTE: This is NOT THE RECOMMENDED Extraction protocol for the OME group. For the standard OME protocol, see [NOAA-PMEL-OME_Extraction_Protocol_Sterivex_Centrifuge.md](https://github.com/marinednadude/NOAA-PMEL-OME_Extraction_Protocol_Sterivex_Centrifuge/blob/main/NOAA-PMEL-OME_Extraction_Protocol_Sterivex_Centrifuge.md)**
+**NOTE: This is NOT THE RECOMMENDED extraction protocol for the OME group. For the standard OME protocol, see [NOAA-PMEL-OME_Extraction_Protocol_Sterivex_Centrifuge.md](https://github.com/marinednadude/NOAA-PMEL-OME_Extraction_Protocol_Sterivex_Centrifuge/blob/main/NOAA-PMEL-OME_Extraction_Protocol_Sterivex_Centrifuge.md)**
 
 See [OSU_Extraction_Protocol.md](https://github.com/McAllister-NOAA/OSU-Extraction_Protocol/blob/main/OSU_Extraction_Protocol.md) for detailed OSU Center for Quantitative Life Sciences protocol.
 
