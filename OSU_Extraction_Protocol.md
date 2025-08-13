@@ -9,13 +9,13 @@ broad_scale_environmental_context: marine biome [ENVO:00000447], marine photic z
 local_environmental_context: oceanic epipelagic zone biome [ENVO:01000035], marine benthic biome [ENVO:01000024]
 environmental_medium: sea water [ENVO:00002149]
 target: deoxyribonucleic acid (DNA) [NCIT:C449]
-creator: Shannon Brown, Han Weinrich, Zachary Gold
-materials_required: vortexer [OBI:0400118], centrifuge [OBI:0400106], incubator [OBI:0000136]
-skills_required: sterile technique, pipetting skills, standard molecular technique
-time_required: 	480
+creator: Sean McAllister
+materials_required: TBD, vortexer [OBI:0400118], centrifuge [OBI:0400106], incubator [OBI:0000136]
+skills_required: TBD, sterile technique, pipetting skills, standard molecular technique
+time_required: 	TBD
 personnel_required: 1
 language: en
-issued:	2024-06-10
+issued:	2025-08-12
 audience: scientists
 publisher:	NOAA Pacific Marine Environmental Laboratory Ocean Molecular Ecology Group; University of Washington Cooperative Institute for Climate, Ocean, & Ecosystem Studies
 hasVersion: 1
@@ -26,10 +26,10 @@ maturity level: mature
 samp_vol_we_dna_ext: 1000
 samp_vol_we_dna_ext_unit: mL
 nucl_acid_ext_lysis: enzymatic | thermal
-nucl_acid_ext_sep: column-based
-nucl_acid_ext: https://doi.org/10.1111/2041-210X.12683
-nucl_acid_ext_kit: Qiagen DNeasy Blood and Tissue Kit, 250
-nucl_acid_ext_modify: Modified for sterivex, reagent volume altered
+nucl_acid_ext_sep: magnetic beads
+nucl_acid_ext: TBD
+nucl_acid_ext_kit: Omega Bio-Tek Mag-Bind Blood & Tissue DNA HDQ 96 Kit
+nucl_acid_ext_modify: Lysis steps modified for all filters. Reagent volume altered
 dna_cleanup_0_1: 0
 dna_cleanup_method: not applicable
 concentration: not applicable
@@ -39,7 +39,7 @@ pool_dna_num: not applicable
 nucl_acid_ext_method_additional: not applicable
 ---
 
-# NOAA PMEL OME Extraction Protocol for Sterivex Using a Centrifuge
+# OSU Extraction Protocol
 
 ## PROTOCOL INFORMATION
 
@@ -62,10 +62,10 @@ nucl_acid_ext_method_additional: not applicable
 
 | PREPARED BY All authors known to have contributed to the preparation of this protocol, including those who filled in the template.  | AFFILIATION | ORCID (visit https://orcid.org/ to register) | DATE |
 | ------------- | ------------- | ------------- | ------------- |
-| Shannon Brown | Ocean Molecular Ecology, NOAA PMEL & UW CICOES  | 0000-0001-9808-2638 |2024-02-02|
-| Han Weinrich  | Ocean Molecular Ecology, NOAA PMEL & UW CICOES  | 0009-0007-6063-0986 |2024-02-02|
-|Sean McAllister	|Ocean Molecular Ecology, NOAA PMEL & UW CICOES	|0000-0001-6654-3495	|2024-02-02|
-|Matt Galaska	|Ocean Molecular Ecology, NOAA PMEL|	0000-0002-4257-0170	|2024-02-02|
+| Sean McAllister	| Ocean Molecular Ecology, NOAA PMEL & UW CICOES	|0000-0001-6654-3495	| 2021, 2025-08-12 |
+| Katie Carter | Oregon State University, Center for Genome Research and Biocomputing | N/A | 2021 |
+| Shannon Brown | Ocean Molecular Ecology, NOAA PMEL & UW CICOES  | 0000-0001-9808-2638 |2025-08-?|
+| Han Weinrich  | Ocean Molecular Ecology, NOAA PMEL & UW CICOES  | 0009-0007-6063-0986 |2025-08-?|
 
 ### Related Protocols
 
@@ -76,10 +76,12 @@ nucl_acid_ext_method_additional: not applicable
 
 | PROTOCOL NAME | LINK         | VERSION      | RELEASE DATE | INTERNAL/EXTERNAL |
 | ------------- | ------------ | ------------ | ------------ | ----------------- |
+| NOAA-PMEL-OME_Extraction_Protocol_Sterivex_Centrifuge | https://github.com/marinednadude/NOAA-PMEL-OME_Extraction_Protocol_Sterivex_Centrifuge | 1.1 | 2025-02-20 | Internal |
 | NOAA-PMEL-OME_Extraction_Protocol_DiscFilter_Centrifuge_BeBOP | Pending  | 1.0.0  | Internal |
 | NOAA-PMEL-OME_Extraction_Protocol_Sterivex_Qiavac_BeBOP | https://github.com/Brown-NOAA/NOAA-PMEL-OME_Extraction_Sterivex_QIAvac_Protocol_BeBOP/blob/main/NOAA-PMEL-OME_Extraction_Sterivex_QIAvac_Protocol_BeBOP.md | 1.0.0  | Internal |
 | NOAA-PMEL-OME_Qubit_Quantification_Protocol_BeBOP | https://github.com/HanWeinrich/NOAA-PMEL-OME-Qubit-Quantification-Protocol-BeBOP/blob/main/NOAA-PMEL-OME-Qubit-Quantification-Protocol-BeBOP.md | 1.0.0  | Internal |
-| Spens et al. 2017 |https://doi.org/10.1111/2041-210X.12683 | 1.0  | 2016-11-15  | External |
+ADD link to Omega BioTek HDQ kit guide
+
 
 ### Protocol Revision Record
 
