@@ -1,3 +1,5 @@
+https://zenodo.org/badge/DOI/10.5281/zenodo.16850034.svg
+
 # OSU-Extraction_Protocol
 
 **NOTE: This is NOT THE RECOMMENDED extraction protocol for the OME group. For the standard OME protocol, see [NOAA-PMEL-OME_Extraction_Protocol_Sterivex_Centrifuge.md](https://github.com/marinednadude/NOAA-PMEL-OME_Extraction_Protocol_Sterivex_Centrifuge/blob/main/NOAA-PMEL-OME_Extraction_Protocol_Sterivex_Centrifuge.md)**
