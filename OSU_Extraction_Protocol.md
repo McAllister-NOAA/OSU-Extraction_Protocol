@@ -127,27 +127,28 @@ TBD
 
 ## BACKGROUND
 
-This document describes the 2021 Oregon State University Center for Genome Research and Biocomputing (CGRB; currently Center for Quantitative Life Sciences, CQLS) protocol to extract DNA from sterivex and disc filters.
+This document describes the 2021 Oregon State University Center for Genome Research and Biocomputing (CGRB; currently Center for Quantitative Life Sciences, CQLS) protocol to extract DNA from sterivex and disc filters on behalf of the PMEL OME group.
 
 ### Summary
 
-Nucleic acid extraction from the sterivex filters using the Qiagen DNeasy Blood and Tissue Kit with some modifications to the manufacturer’s protocol. These extraction protocols, adapted from [Spens et al 2017](https://doi.org/10.1111/2041-210X.12683), are used by the NOAA PMEL Ocean Molecular Ecology (OME) Group.
-
+Nucleic acid extraction from various filter types is described with varying lysis steps/volumes. After lysis, all samples were extracted via the Omega BioTek Blood and Tissue HDQ kit (M6399), run on a KingFisher Flex (ThermoFisher) robot using deep 96-well plates and magnet. All samples were quantified via the Quant-iT dsDNA high sensitivity kit (ThermoFisher). Extraction protocols for sterivex filters were adapted from [Spens et al 2017](https://doi.org/10.1111/2041-210X.12683).
 
 ### Method Description and Rationale
 
-The [Spens et al 2017](https://doi.org/10.1111/2041-210X.12683) protocol is a widely used, highly reproducible, and easily executable DNA extraction protocol from Sterivex filters. Sterivex filters are a commonly used filter for seawater sampling, including by the [PMEL Ocean Molecular Ecology Program](https://www.pmel.noaa.gov/ocean-molecular-ecology/) and the [NOAA CalCOFI Ocean Genomics](https://calcofi.com/index.php?option=com_content&view=category&layout=blog&id=234&Itemid=1142) group. This extraction protocol from sterivex samples has been demonstrated to generate sufficient DNA yields while minimizing contamination (Spens et al. 2017, Shea et al. 2023).
+The OSU CGRB/CQLS group performed the following extraction methods on PMEL OME sterivex, 45 mm disc filters, and 25 mm disc filters per discussion with McAllister. For the sterivex filters, the [Spens et al 2017](https://doi.org/10.1111/2041-210X.12683) protocol is a widely used, highly reproducible, minimizes contamination, and easily executable DNA extraction protocol from Sterivex filters. Other fitting methods were apopted for the disc filters.
 
 
 ### Spatial Coverage and Environment(s) of Relevance
 
-This protocol has been used to extract DNA from tens of thousands of filtered seawater samples taken from coastal stations off the western coast of North America in the Northeastern Pacific Ocean, Bering Sea and Arctic Ocean (primarily off California, Oregon, Washington, and Alaska). Samples collected range in depth from surface ocean (epipelagic biome) to just off bottom (benthic biome) at varying distances from shore (coastal to off-shelf).
+This protocol has been used to extract DNA from filtered seawater samples from two 2020 cruises in the U.S. Arctic and coast of Alaska.
 
 ### Personnel Required
 
 One person with molecular biology experience.
 
 ### Safety
+
+TBD
 
 Buffer AW1 from the DNeasy Blood & Tissue Kit contains guanidine hydrochloride and is classified as category 4 for acute toxicity [(Safety Data Sheet)](https://www.qiagen.com/binary/resource/sds/800000000214-en-GB-IE--1/214-BufferAW1-en-GB-IE--1.00000.pdf). Additional care should be taken when working with this buffer. For other reagents, standard precautions, including wearing PPE, should be taken to avoid skin and eye exposure to chemicals.
 
@@ -157,9 +158,11 @@ Molecular biology training (including, at a minimum, sterile technique, pipettin
 
 ### Time Required to Execute the Procedure
 
-Extracting DNA from 24 sterivex samples, including a field blank, takes 8 hours (480 minutes), including incubation time. 
+TBD 
 
 ## EQUIPMENT
+
+TBD
 
 - Description: E.g., "filter".
 - Product Name and Model: Provide the official name of the product.
@@ -218,53 +221,48 @@ For a full extraction set, including 23 eDNA samples and a field blank:
 
 ## STANDARD OPERATING PROCEDURE
 
-#### Preparation
+### For all filters
 
-To minimize the risk of sample contamination, this protocol should be carried out in dedicated eDNA extraction laboratories/rooms. When possible, the full dedicated lab space should be sterilized with UV.
+* Reagents from Omega BioTek Blood and Tissue HDQ kit (M6399). After lysate was prepared, extractions run on KingFisher Flex (ThermoFisher) robot using deep 96-well plates and magnet. 
+* DNA quantified with Quant-iT dsDNA high sensitivity kit (ThermoFisher).
 
-### Before DNA Extraction
+### For sterivex filters
 
-1. Run UV light for 30 minutes in BioSafety II cabinet (BSC) and room, if not run since last use.
-2. Sterilize workspaces and durable equipment, including pipettes within the BSC, with 10% bleach. Then wipe down all surfaces and equipment with 70% EtOH. If you have a UV crosslinker available, UV pipettes and tube racks regularly for 2 minutes.
-4. Set up two 50 mL tube racks, one for sterivex and one for syringes, within the BSC by lining the bottom of the rack with kimwipes, then turn on the UV light for 30 minutes to sterilize.
-5. Turn on the heatshaker to 56°C. If the Buffer ATL has precipitate, place in heatshaker. Allow the buffer to heat until all precipitate is gone (~15 minutes), swirl as needed.
-6. Aliquot ~25 mL of 100% EtOH into a 50 mL falcon tube and store at -20°C freezer for later use.
-7. Ensure 100% molecular grade EtOH has been added to Buffer AW1 and AW2 according to the Qiagen DNeasy Blood and Tissue Kit manufacturer's instructions. 
+1. Use a 5-10 mL disposable luer lock syringe to transfer the ethanol in the sterivex filters to a 5 mL tube.
+2. Ethanol fraction lysis
+    * Spin the ethanol tubes for 10 min at 5000 x g. Decant ethanol. Place tube upside down on paper towel to dry. Place open tubes briefly under fume hood if all ethanol does not dry.
+    * Add 180 µL TL buffer to pellet from ethanol tubes. Add 20 µL ProK. Vortex to mix.
+    * Place at 56˚C overnight.
+3. Filter fraction lysis
+    * Put the filter tilted upwards on a rack on lab bench so any remaining ethanol can drip/evaporate out.
+    * Add 720 µL TL buffer and 80 µL ProtK in the open end of the sterivex filters. Cap both ends. Parafilm both ends.
+    * Place on rotating unit at 56˚C overnight.
+4. NEXT DAY. Use 5-10 mL disposable luer lock syringe to transfer the lysis buffer from the sterivex filter (filter fraction lysis) to the matching 5 mL tube for the same sample (ethanol fraction lysis).
+5. Transfer samples to deep well plate.
+6. Add 10 µL PD090 RNase A to each sample.
+7. Spin plate down for 10 min at 4000 x g.
+8. Continue with standard Omega kit Tissue protocol adjusted to use 3x normal lysate: Transfer 250 µL of lysate to each of three plates. Add 290 µL AL buffer to each plate. Add 400 µL HDQ buffer to each plate. Add 20 µL of HDQ binding beads to one of the plates. Load KingFisher with lysate plates and wash buffers. Run standard KingFisher protocol for kit M6399 edited to include mag-bead binding step 3 times for the 3 lysate plates. Elution in 100 µL 10 mM Tris HCl pH 8.5 (Omega EB).
 
-**Recommended (not required)**: Aliquot Buffer AW1 and AW2 into 50 mL falcon tubes to reduce contamination caused by repeated use of large volume bottles.
+### For 45 mm filters
 
-### DNA Extraction
+1.	Pre-fill wells of a deep well collection plate with 350 uL TL buffer. 
+2.	Decant ethanol from sample into 5 mL tube. 
+3.	Cut filter in half. Add each half to separate wells of the deep well plate with TL buffer. 
+4.	Spin the ethanol tubes for 10 min at 5000 g. Decant ethanol. Place tube upside down on paper towel to dry. Place open tubes briefly under fume hood if all ethanol doesn't dry.
+5.	Add 200 uL TL buffer to 5 mL tube. Vortex. Add ½ volume to one well with corresponding filter and other ½ to the other well for the same filter. 
+6.	Add 40 uL proK to deep well collection plate
+7.	Incubate at 56C Overnight
+Next Day
+8.	Proceed with standard M6399 protocol
+9.	Spin plate down for 10 min at 4000 g. Transfer lysate to new deep well plate with 5 uL RNase A. 
+10.	Transfer 250 uL lysate to new deep well plate for two lysate plates total
+11.	Add AL buffer/HDQ buffer to both plates. Add 20 uL HDQ binding beads to one lysate plate. 
+12.	Run standard KingFisher protocol for kit M6399 edited to include mag-bead binding step 2 times for the 2 lysate plates. Elution in 100 uL 10 mM Tris HCl pH 8.5 (Omega EB)
+<img width="468" height="316" alt="image" src="https://github.com/user-attachments/assets/29401795-21b3-452f-9314-a702ea84fbac" />
 
-1. Fill a sterile, 5 mL luer lock syringe with air, remove the sterivex inlet cap and dispose. Attach the syringe to the sterivex. Remove the outlet cap but don’t dispose (place on a sterile surface face up). Use the syringe to push air slowly through the filter; KEEP THE SYRINGE. If you push air through the filter 2-3x, most liquid is removed. 
-2.  In one 50 mL tube rack, dry the sterivex filters by placing them vertically with the ‘inlet end’ facing down. Let them blot on kimwipes previously placed on the bottom of the rack. Allow to dry while completing the next few steps.
-3.  Use the saved outlet cap to seal the syringe, label it with the corresponding sample number, and place it in the other 50 mL tube rack with kimwipes.
-4. After liquid has been removed from all 24 sterivex, tap filters on a separate small kimwipe to remove excess liquid post-drying. Dispose of this kimwipe and sterilize the BSC surface.
-6. Once excess ethanol has evaporated (around 30-45 minutes), reseal 4-12 sterivex at a time with their corresponding outlet cap, which is currently on the labeled 5 mL luer lock syringe. Syringes can be placed back on the 50 mL tube rack with no cap. Use a 4-way tube rack to hold sterivex for the next step.
-7. Add 720 µL Buffer ATL (pre-heated if precipitate was present) and 80 µL Proteinase K to each sterivex with the 1000 μL and 200 μL pipettes, respectively. Pipet solution between the outside of the filter and the capsule walls. Close with a new inlet cap. Handshake vigorously and/or vortex sideways.
-8. Add this batch of sterivex to the heatshaker, and complete Steps 2-3 for the remaining sterivex. Turn on the shaking function to 650 rpm.
-9. Incubate sterivex at 56°C for 2-3 hours. Rotate filter capsules 3-4x during incubation to ensure the entire filter surface is submerged in solution.
-10. Once all samples are removed from the BSC and inside the heatshaker, wipe down work surfaces with 10% bleach followed by 70% EtOH. Run the UV light inside the BSC for 30 minutes before samples are finished incubating.
 
-**Note**: This is a good time to pre-label your 5 mL tubes, collection tubes, and 1.5 mL tubes. Ensure that all intermediate sample containers (i.e. spin coumns, 5 mL tubes) are labeled with at least the sample number on the top. 
 
-10. Remove sterivex from the heatshaker and shake vigorously. 
-11. Then, remove ALL the liquid from the inlet end of the sterivex using the corresponding 5 mL luer lock syringe. Transfer to a labeled 5 mL tube. Dispose of the syringe and caps. 
-12. Visually estimate the volume of the sample using the 5 mL tube markings. Record these values in lab notebook.
-13. Add Buffer AL and ice-cold 100% EtOH (i.e., aliquot you stored in the -20°C freezer) to the sample in equal volumes. Sample:Buffer:Ethanol = 1:1:1. Vortex vigorously 10-15 seconds.
-14. Pipet the mixture (max 640 µL) into a spin column in a 2 mL collection tube provided by the DNeasy Blood and Tissue kit. Repeat for all samples.
-15. Spin in the centrifuge at 6000 ∗ g for 1 min. Discard flow through. Tap collection tubes on a kimwipe to remove droplets before replacing the column in the collection tube.
-16. Repeat steps 14-15 until the full sample volume is filtered through each spin column (takes 4-5x).
-17. Move Buffer AE to heatshaker set at 56°C to preheat for final elution. Shaking function should be turned off. 
-18. Place the spin column in a new 2 ml collection tube, add 500 µl Buffer AW1, and centrifuge for 1 min at 6000 ∗ g. 
-19. Discard flow-through and collection tube. Place the spin column in a new 2 ml collection tube, add 500 µl Buffer AW2, and centrifuge for 3.5 min at 20,000 ∗ g. 
 
-**Note**: If there is liquid between the spin column and the collection tube, or if the membrane touches the filtrate, move to a new collection tube and respin the sample. Record in lab notebook.
-
-17. Discard flow-through and collection tube. Transfer the spin column to a new, labeled 1.5 mL tube with the cap open.
-18. Add 50 µl pre-heated Buffer AE onto spin column membrane. Incubate for 5 min and then centrifuge for 1 min at 6,000 ∗ g. Without discarding flow-through, repeat with another 50 µl Buffer AE and centrifuge. Discard the spin column, as your extract is now in the 1.5 mL tube.
-19. Place extracted DNA tubes into a labeled cryobox and store in a -20°C freezer until later use. Preferably, set aside an aliquot for long-term and backup storage to be archived in a -80°C freezer (see quality control for more information)
-
-**Note:** Tubes containing DNA aliquots should be labeled on both the top and side with at least the sample number. OME also labels the sides of storage tubes with the cruise number and date of extraction. 
 
 ### Quality Control
 
