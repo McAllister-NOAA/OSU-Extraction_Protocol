@@ -27,7 +27,7 @@ samp_vol_we_dna_ext: 1000
 samp_vol_we_dna_ext_unit: mL
 nucl_acid_ext_lysis: enzymatic | thermal
 nucl_acid_ext_sep: magnetic beads
-nucl_acid_ext: TBD
+nucl_acid_ext: https://doi.org/10.5281/zenodo.16850033
 nucl_acid_ext_kit: Omega Bio-Tek Mag-Bind Blood & Tissue DNA HDQ 96 Kit
 nucl_acid_ext_modify: Lysis steps modified for all filters. Reagent volume altered
 dna_cleanup_0_1: 0
@@ -65,7 +65,7 @@ nucl_acid_ext_method_additional: not applicable
 | PREPARED BY All authors known to have contributed to the preparation of this protocol, including those who filled in the template.  | AFFILIATION | ORCID (visit https://orcid.org/ to register) | DATE |
 | ------------- | ------------- | ------------- | ------------- |
 | Sean McAllister	| Ocean Molecular Ecology, NOAA PMEL & UW CICOES	|0000-0001-6654-3495	| 2021, 2025-08-12 |
-| Katie Carter | Oregon State University, Center for Genome Research and Biocomputing | N/A | 2021 |
+| Katie Carter | Oregon State University, Center for Genome Research and Biocomputing (currently Center for Quantitative Life Sciences) | N/A | 2021 |
 | Shannon Brown | Ocean Molecular Ecology, NOAA PMEL & UW CICOES  | 0000-0001-9808-2638 |2025-08-?|
 | Han Weinrich  | Ocean Molecular Ecology, NOAA PMEL & UW CICOES  | 0009-0007-6063-0986 |2025-08-?|
 
@@ -80,10 +80,9 @@ nucl_acid_ext_method_additional: not applicable
 | ------------- | ------------ | ------------ | ------------ | ----------------- |
 | NOAA-PMEL-OME_Extraction_Protocol_Sterivex_Centrifuge | https://github.com/marinednadude/NOAA-PMEL-OME_Extraction_Protocol_Sterivex_Centrifuge | 1.1 | 2025-02-20 | Internal |
 | NOAA-PMEL-OME_Extraction_Protocol_DiscFilter_Centrifuge_BeBOP | Pending  | 1.0.0  | Internal |
-| NOAA-PMEL-OME_Extraction_Protocol_Sterivex_Qiavac_BeBOP | https://github.com/Brown-NOAA/NOAA-PMEL-OME_Extraction_Sterivex_QIAvac_Protocol_BeBOP/blob/main/NOAA-PMEL-OME_Extraction_Sterivex_QIAvac_Protocol_BeBOP.md | 1.0.0  | Internal |
-| NOAA-PMEL-OME_Qubit_Quantification_Protocol_BeBOP | https://github.com/HanWeinrich/NOAA-PMEL-OME-Qubit-Quantification-Protocol-BeBOP/blob/main/NOAA-PMEL-OME-Qubit-Quantification-Protocol-BeBOP.md | 1.0.0  | Internal |
-ADD link to Omega BioTek HDQ kit guide
-
+| Mag-Bind Blood & Tissue DNA HDQ 96 Kit| https://omegabiotek.com/product/tissue-and-blood-kit-genomic-dna-isolation-mag-bind-hdq-96 | Unavailable | Unavailable | External |
+| Quant-iT 1X dsDNA HS Assay Kit | https://assets.thermofisher.com/TFS-Assets/BID/manuals/MAN0017526_Quant_iT_1X_dsDNA_HS_Assay_Kit_UG.pdf | Unavailable | Unavailable | External |
+| Spens et al. 2017 | https://doi.org/10.1111/2041-210X.12683 | 1.0  | 2016-11-15  | External |
 
 ### Protocol Revision Record
 
@@ -93,12 +92,11 @@ ADD link to Omega BioTek HDQ kit guide
 
 | VERSION | RELEASE DATE | DESCRIPTION OF REVISIONS |
 | ------------- | ------------- | ------------- |
-| 1.0.0 | 2024-05-30 | Initial release |
-| 1.1.0 | 2025-02-20 | Addition of FAIR eDNA terms in YAML frontmatter and formatting edits |
-| 1.1.1 | 2025-05-30 | Minor content and format revisions |
-| 1.1.2 | 2025-06-10 | Added Qubit quantification protocol |
+| 0.1.0 | 2025-08-13 | Initial release |
 
 ### Acronyms and Abbreviations
+
+TBD
 
 | ACRONYM / ABBREVIATION | DEFINITION |
 | ------------- | ------------- |
@@ -111,11 +109,13 @@ ADD link to Omega BioTek HDQ kit guide
 |OME	|Ocean Molecular Ecology|
 |PCR| Polymerase chain reaction |
 |PMEL	|Pacific Marine Environmental Laboratory
-|PPE    | Personal protective equipment |
+|PPE | Personal protective equipment |
 |UV| Ultraviolet|
 |UW| University of Washington
 
 ### Glossary
+
+TBD
 
 | SPECIALISED TERM | DEFINITION |
 | ------------- | ------------- |
@@ -127,7 +127,7 @@ ADD link to Omega BioTek HDQ kit guide
 
 ## BACKGROUND
 
-This document describes the required protocol to extract DNA from a sterivex filter.
+This document describes the 2021 Oregon State University Center for Genome Research and Biocomputing (CGRB; currently Center for Quantitative Life Sciences, CQLS) protocol to extract DNA from sterivex and disc filters.
 
 ### Summary
 
