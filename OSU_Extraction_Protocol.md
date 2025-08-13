@@ -41,6 +41,8 @@ nucl_acid_ext_method_additional: not applicable
 
 # OSU Extraction Protocol
 
+**NOTE: This is NOT THE RECOMMENDED extraction protocol for the OME group. For the standard OME protocol, see [NOAA-PMEL-OME_Extraction_Protocol_Sterivex_Centrifuge.md](https://github.com/marinednadude/NOAA-PMEL-OME_Extraction_Protocol_Sterivex_Centrifuge/blob/main/NOAA-PMEL-OME_Extraction_Protocol_Sterivex_Centrifuge.md)**
+
 ## PROTOCOL INFORMATION
 
 ### Minimum Information about an Omics Protocol (MIOP)
