@@ -110,8 +110,8 @@ nucl_acid_ext_method_additional: not applicable
 |PPE | Personal protective equipment |
 |UV| Ultraviolet|
 |UW| University of Washington |
-| OSU CGRB | Oregon State University, Center for Genome Research and Biocomputing |
-| OSU CQLS | Oregon State University, Center for Quantitative Life Sciences (synonymous with OSU CGRB; current name)|
+| OSU CGRB | Oregon State University, Center for Genome Research and Biocomputing (synonymous with OSU CQLS; this name is old) |
+| OSU CQLS | Oregon State University, Center for Quantitative Life Sciences (synonymous with OSU CGRB; this name is current)|
 
 ### Glossary
 
