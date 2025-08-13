@@ -195,32 +195,8 @@ Minimal equipment list for described protocol:
 | Sterivex/syringe caps | Male/female sterile luer caps | McKesson | 2 per sterivex | Can be substituted with generic, must be sterile and individually packaged. |
 | 5 mL tubes | DNA LoBind 5 mL PCR clean centrifuge tube | Eppendorf | 1 per sterivex/25mm/45mm filter | Can be substituted with generic, must be sterile/PCR clean |
 | Parafilm | Parafilm M - 5259-04LC PM996 All Purpose Laboratory Film | Parafilm | 1 | Can be substituted with generic. |
-| **Omega BioTek Blood and Tissue HDQ kit** | M6399 | Omega BioTek | 1 per 96 samples | See component needs below. |
-| TL buffer | PD061 | Omega BioTek | 900 µL per sterivex/45mm filter, 450 µL per 25mm filter | Omega BioTek Blood and Tissue HDQ kit comes with 30 mL per 96 rxns. |
-| Proteinase K  | AC116 | Omega BioTek | 100 µL per sterivex, 80 µL per 45mm, 40 µL per 25 mm filter | Omega BioTek Blood and Tissue HDQ kit comes with 2.2 mL per 96 rxns. Can be substituted with generic. |
-| AL buffer | AL-1000 | Omega BioTek | 870 µL per sterivex, 1160 µL per 45mm, 580 µL per 25mm filter | Omega BioTek Blood and Tissue HDQ kit comes with 35 mL per 96 rxns. |
-| HDQ Binding Buffer | HDQ-200 | Omega BioTek | 1200 µL per sterivex, 1600 µL per 45mm, 800 µL per 25mm filter | Omega BioTek Blood and Tissue HDQ kit comes with 10 mL per 96 rxns. |
-| HDQ Binding beads | Mag-Bind Particles HDQ | Omega BioTek | 20 µL per sterivex/25mm, 40 µL per 45mm filter  | Omega BioTek Blood and Tissue HDQ kit comes with 2.2 mL per 96 rxns. |
-
-
-
-
-|  |  |  |  |  |
-
-Sterivex per sample:
-   4 96-well deep well plate
-   10 uL PD090 RNase A 
-   100 uL 10 mM Tris HCl pH 8.5 (Omega EB)
-45 mm filter per sample:
-   4x 96-well deep well plate
-   2x 5 uL RNase A
-   2x 100 uL 10 mM Tris HCl pH 8.5 (Omega EB)
-25 mm filter per sample:
-   4x 96-well deep well plate
-   5 uL RNase A
-   100 uL 10 mM Tris HCl pH 8.5 (Omega EB)
-   
-   
+| RNase A | RNase A for Genomic DNA Systems PD090 | Omega BioTek | 10 µL per sterivex/45mm, 5 µL per 25mm filter |  |
+| 96-well deep-well plates | Nunc 96-Well Polypropylene DeepWell Sample Processing & Storage Plates with Shared-Wall Technology 278752 | Thermo Scientific | 4 per filter | Can substitute. |
 | 10 μL pipette tips  | TipOne RPT filter tips 10 μL graduated| USA Scientific | 96 | Can be subsituted with generic. Must be sterile and filtered. |
 | 200 μL pipette tips  | TipOne RPT filter tips 200 μL graduated| USA Scientific |96 | Can be subsituted with generic. Must be sterile and filtered. |
 | 1000 μL pipette tips  | TipOne RPT filter tips 1000 μL | USA Scientific |220 | Can be subsituted with generic. Must be sterile and filtered. |
@@ -228,12 +204,16 @@ Sterivex per sample:
 | Nitrile gloves | Powder free nitrile gloves | Fisher Scientific | 8 | Can be subsituted with generic nitrile gloves. Does not come sterile; must be sterilized before use.|
 | Lab notebook | Durable, hardcover lab notebook | Generic | 1 | Dedicated to the lab space|
 | Writing utensils | Sharpies and pens | Generic | 2 | Dedicated to the lab extraction space. Not made of wood - must be able to be wiped down with bleach/EtOH.  |
-|Trash bags for BSC|Teivio 1.2 Gallon 360 Counts Strong Trash Bags|Teivio|3|Can be substituted with generic.|
-| **QIAGEN Extraction Kit** | Qiagen DNeasy Blood and Tissue Kit - 250 extractions | QIAGEN | 1 | For this protocol at scale (i.e., 250 samples), additional volumes of some buffers need to be purchased.|
-| **Chemicals** |
-| 100% molecular grade EtOH | 200 proof molecular biology grade ethanol | Fisher Scientific | 30 mL|Can be substituted with generic, must be 200 proof and molecular biology grade |
+| Trash bags for BSC|Teivio 1.2 Gallon 360 Counts Strong Trash Bags|Teivio|3|Can be substituted with generic.|
 | 70% EtOH | Molecular biology grade ethanol | 20 mL |  |
 | 10% bleach | Hypochlorite bleach | Clorox | 10 mL| Remake every ~5 days as bleach decomposes quickly at 10% concentration. The majority is used in bottle/tube sterilization.|
+| **Omega BioTek Blood and Tissue HDQ kit** | M6399 | Omega BioTek | 1 per 96 samples | See component needs below. |
+| TL buffer | PD061 | Omega BioTek | 900 µL per sterivex/45mm filter, 450 µL per 25mm filter | Omega BioTek Blood and Tissue HDQ kit comes with 30 mL per 96 rxns. |
+| Proteinase K  | AC116 | Omega BioTek | 100 µL per sterivex, 80 µL per 45mm, 40 µL per 25 mm filter | Omega BioTek Blood and Tissue HDQ kit comes with 2.2 mL per 96 rxns. Can be substituted with generic. |
+| AL buffer | AL-1000 | Omega BioTek | 870 µL per sterivex, 1160 µL per 45mm, 580 µL per 25mm filter | Omega BioTek Blood and Tissue HDQ kit comes with 35 mL per 96 rxns. |
+| HDQ Binding Buffer | HDQ-200 | Omega BioTek | 1200 µL per sterivex, 1600 µL per 45mm, 800 µL per 25mm filter | Omega BioTek Blood and Tissue HDQ kit comes with 10 mL per 96 rxns. |
+| HDQ Binding beads | Mag-Bind Particles HDQ | Omega BioTek | 20 µL per sterivex/25mm, 40 µL per 45mm filter  | Omega BioTek Blood and Tissue HDQ kit comes with 2.2 mL per 96 rxns. |
+| 10 mM Tris HCl pH 8.5 | Elution Buffer EB PDR048 | Omega BioTek | 100 µL per sterivex/25mm, 200 µL per 45mm filter | Omega BioTek Blood and Tissue HDQ kit comes with 60 mL per 96 rxns. |
 
 ## STANDARD OPERATING PROCEDURE
 
