@@ -1,4 +1,4 @@
-<img width="191" height="20" alt="image" src="https://github.com/user-attachments/assets/849eec0b-7220-4f34-8ef6-8fc2d38f823d" />
+[![DOI](https://zenodo.org/badge/1036968229.svg)](https://doi.org/10.5281/zenodo.16850033)
 
 
 # OSU-Extraction_Protocol
