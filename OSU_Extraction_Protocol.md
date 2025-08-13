@@ -10,9 +10,9 @@ local_environmental_context: oceanic epipelagic zone biome [ENVO:01000035], mari
 environmental_medium: sea water [ENVO:00002149]
 target: deoxyribonucleic acid (DNA) [NCIT:C449]
 creator: Sean McAllister
-materials_required: TBD, vortexer [OBI:0400118], centrifuge [OBI:0400106], incubator [OBI:0000136]
-skills_required: TBD, sterile technique, pipetting skills, standard molecular technique
-time_required: 	TBD
+materials_required: liquid-handling robot [OBI:0400112], vortexer [OBI:0400118], centrifuge [OBI:0400106], incubator [OBI:0000136], fluorometer [OBI:0400143]
+skills_required: sterile technique, pipetting skills, standard molecular technique, loading and running KingFisher Flex robot
+time_required: 960
 personnel_required: 1
 language: en
 issued:	2025-08-12
@@ -96,8 +96,6 @@ nucl_acid_ext_method_additional: not applicable
 
 ### Acronyms and Abbreviations
 
-TBD
-
 | ACRONYM / ABBREVIATION | DEFINITION |
 | ------------- | ------------- |
 |BSC	|Biosafety cabinent |
@@ -111,15 +109,14 @@ TBD
 |PMEL	|Pacific Marine Environmental Laboratory
 |PPE | Personal protective equipment |
 |UV| Ultraviolet|
-|UW| University of Washington
+|UW| University of Washington |
+| OSU CGRB | Oregon State University, Center for Genome Research and Biocomputing |
+| OSU CQLS | Oregon State University, Center for Quantitative Life Sciences (synonymous with OSU CGRB; current name)|
 
 ### Glossary
 
-TBD
-
 | SPECIALISED TERM | DEFINITION |
 | ------------- | ------------- |
-| Extraction blank  | Extraction negative control. Typically nuclease-free water or an empty filter is run through the DNA extraction process to control for contamination in the DNA extraction step.  |
 | Field blank  | Sampling negative control. Typically distilled or reverse osmosis water is run through a filter like a seawater eDNA sample to control for contamination in the field sampling step.  |
 | No template control | PCR negative control. Typically nuclease-free water is loaded in place of a sample on a PCR to control for contamination in the PCR step. |
 | Positive control  | PCR positive control. Typically a synthetic DNA strand, non-indigenous DNA extract, or intentionally designed mock community is loaded in place of a sample on a PCR to control for contamination and index hopping in the PCR step. |
@@ -148,9 +145,7 @@ One person with molecular biology experience.
 
 ### Safety
 
-TBD
-
-Buffer AW1 from the DNeasy Blood & Tissue Kit contains guanidine hydrochloride and is classified as category 4 for acute toxicity [(Safety Data Sheet)](https://www.qiagen.com/binary/resource/sds/800000000214-en-GB-IE--1/214-BufferAW1-en-GB-IE--1.00000.pdf). Additional care should be taken when working with this buffer. For other reagents, standard precautions, including wearing PPE, should be taken to avoid skin and eye exposure to chemicals.
+For all reagents, standard precautions, including wearing PPE, should be taken to avoid skin and eye exposure to chemicals.
 
 ### Training Requirements
 
@@ -158,7 +153,7 @@ Molecular biology training (including, at a minimum, sterile technique, pipettin
 
 ### Time Required to Execute the Procedure
 
-TBD 
+Extracting DNA from 96 filter samples takes approx 16 hours (960 min) over two days, excluding overnight incubation time.
 
 ## EQUIPMENT
 
