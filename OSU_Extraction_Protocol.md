@@ -223,76 +223,73 @@ For a full extraction set, including 23 eDNA samples and a field blank:
 
 ### For all filters
 
-* Reagents from Omega BioTek Blood and Tissue HDQ kit (M6399). After lysate was prepared, extractions run on KingFisher Flex (ThermoFisher) robot using deep 96-well plates and magnet. 
+* Reagents from Omega BioTek Blood and Tissue HDQ kit (M6399). After lysate was prepared, extractions run on KingFisher Flex (ThermoFisher) robot using deep 96-well plates and magnet.
+* Though elutions were done with 100 µL, the practical elution volume is 80 µL since the KingFisher Flex unavoidably removes some of the elution buffer when pulling the beads out. 
 * DNA quantified with Quant-iT dsDNA high sensitivity kit (ThermoFisher).
 
 ### For sterivex filters
 
-1. Use a 5-10 mL disposable luer lock syringe to transfer the ethanol in the sterivex filters to a 5 mL tube.
-2. Ethanol fraction lysis
-    * Spin the ethanol tubes for 10 min at 5000 x g. Decant ethanol. Place tube upside down on paper towel to dry. Place open tubes briefly under fume hood if all ethanol does not dry.
-    * Add 180 µL TL buffer to pellet from ethanol tubes. Add 20 µL ProK. Vortex to mix.
+1. Ethanol fraction lysis
+    * Use a 5-10 mL disposable luer lock syringe to transfer the ethanol in the sterivex filters to a 5 mL tube.
+    * Spin the 5 mL ethanol tubes for 10 min at 5000 x g. Decant ethanol. Place tube upside down on paper towel to dry. Place open tubes briefly under fume hood if all ethanol does not dry.
+    * Add 180 µL TL buffer to pellet from ethanol tubes. Add 20 µL ProtK. Vortex to mix.
     * Place at 56˚C overnight.
-3. Filter fraction lysis
+2. Filter fraction lysis
     * Put the filter tilted upwards on a rack on lab bench so any remaining ethanol can drip/evaporate out.
     * Add 720 µL TL buffer and 80 µL ProtK in the open end of the sterivex filters. Cap both ends. Parafilm both ends.
     * Place on rotating unit at 56˚C overnight.
-4. NEXT DAY. Use 5-10 mL disposable luer lock syringe to transfer the lysis buffer from the sterivex filter (filter fraction lysis) to the matching 5 mL tube for the same sample (ethanol fraction lysis).
-5. Transfer samples to deep well plate.
-6. Add 10 µL PD090 RNase A to each sample.
-7. Spin plate down for 10 min at 4000 x g.
-8. Continue with standard Omega kit Tissue protocol adjusted to use 3x normal lysate: Transfer 250 µL of lysate to each of three plates. Add 290 µL AL buffer to each plate. Add 400 µL HDQ buffer to each plate. Add 20 µL of HDQ binding beads to one of the plates. Load KingFisher with lysate plates and wash buffers. Run standard KingFisher protocol for kit M6399 edited to include mag-bead binding step 3 times for the 3 lysate plates. Elution in 100 µL 10 mM Tris HCl pH 8.5 (Omega EB).
+3. NEXT DAY. Use 5-10 mL disposable luer lock syringe to transfer the lysis buffer from the sterivex filter (filter fraction lysis) to the matching 5 mL tube for the same sample (ethanol fraction lysis).
+4. Transfer samples to deep well plate.
+5. Add 10 µL PD090 RNase A to each sample.
+6. Spin plate down for 10 min at 4000 x g.
+7. Continue with standard Omega kit Tissue protocol adjusted to use 3x normal lysate: Transfer 250 µL of lysate to each of three plates. Add 290 µL AL buffer to each plate. Add 400 µL HDQ buffer to each plate. Add 20 µL of HDQ binding beads to one of the plates. Load KingFisher with lysate plates and wash buffers. Run standard KingFisher protocol for kit M6399 edited to include mag-bead binding step 3 times for the 3 lysate plates. Elution in 100 µL 10 mM Tris HCl pH 8.5 (Omega EB).
 
 ### For 45 mm filters
 
-1.	Pre-fill wells of a deep well collection plate with 350 uL TL buffer. 
-2.	Decant ethanol from sample into 5 mL tube. 
-3.	Cut filter in half. Add each half to separate wells of the deep well plate with TL buffer. 
-4.	Spin the ethanol tubes for 10 min at 5000 g. Decant ethanol. Place tube upside down on paper towel to dry. Place open tubes briefly under fume hood if all ethanol doesn't dry.
-5.	Add 200 uL TL buffer to 5 mL tube. Vortex. Add ½ volume to one well with corresponding filter and other ½ to the other well for the same filter. 
-6.	Add 40 uL proK to deep well collection plate
-7.	Incubate at 56C Overnight
-Next Day
-8.	Proceed with standard M6399 protocol
-9.	Spin plate down for 10 min at 4000 g. Transfer lysate to new deep well plate with 5 uL RNase A. 
-10.	Transfer 250 uL lysate to new deep well plate for two lysate plates total
-11.	Add AL buffer/HDQ buffer to both plates. Add 20 uL HDQ binding beads to one lysate plate. 
-12.	Run standard KingFisher protocol for kit M6399 edited to include mag-bead binding step 2 times for the 2 lysate plates. Elution in 100 uL 10 mM Tris HCl pH 8.5 (Omega EB)
-<img width="468" height="316" alt="image" src="https://github.com/user-attachments/assets/29401795-21b3-452f-9314-a702ea84fbac" />
+1. Ethanol fraction
+    * Decant ethanol from sample into 5 mL tube.
+    * Spin the ethanol tubes for 10 min at 5000 x g. Decant ethanol. Place tube upside down on paper towel to dry. Place open tubes briefly under fume hood if all ethanol does not dry.
+    * Add 200 µL TL buffer to 5 mL tube. Vortex.
+3. Filter fraction
+    * Pre-fill wells of a deep well collection plate with 350 µL TL buffer.
+    * Cut filter in half. Add each half to separate wells of the deep well plate with TL buffer.
+5.	 Add half volume of ethanol fraction buffer to one well with corresponding filter and other half of the ethanol fraction buffer to the other well for the same filter.
+6.	 Add 40 µL ProtK to deep well collection plate.
+7.	 Incubate at 56˚C overnight.
+8.	 NEXT DAY. Proceed with standard M6399 protocol.
+9.	 Spin plate down for 10 min at 4000 x g. Transfer lysate to new deep well plate with 5 µL RNase A.
+10.	 Transfer 250 µL lysate to new deep well plate for two lysate plates total.
+11.	 Add AL buffer/HDQ buffer to both plates. Add 20 µL HDQ binding beads to one lysate plate.
+12.	 Run standard KingFisher protocol for kit M6399 edited to include mag-bead binding step 2 times for the 2 lysate plates. Elution in 100 µL 10 mM Tris HCl pH 8.5 (Omega EB).
 
+### For 25 mm filters
 
+1. Ethanol fraction
+    * Decant ethanol from sample into 5 mL tube.
+    * Spin the ethanol tubes for 10 min at 5000 x g. Decant ethanol. Place tube upside down on paper towel to dry. Place open tubes briefly under fume hood if all ethanol does not dry.
+    * Add 100 µL TL buffer to 5 mL tube. Vortex.
+2. Filter fraction
+    * Add filter to deep well collection plate.
+    * Add 350 µL TL buffer to filter wells.
+3.	 Add ethanol fraction to well with corresponding filter. 
+4.	 Add 40 µL ProtK to deep well plate.
+5.	 Incubate at 56˚C overnight.
+6.	 NEXT DAY. Proceed with standard M6399 protocol.
+7.	 Spin plate down for 10 min at 4000 x g, transfer lysate to new deep well plate with 5 µL RNase A.
+8.	 Transfer 250 µL lysate to new deep well plate for two lysate plates total.
+9.	 Add AL buffer/HDQ buffer to both plates. Add 20 µL HDQ binding beads to one lysate plate.
+10.	 Run standard KingFisher protocol for kit M6399 edited to include mag-bead binding step 2 times for the 2 lysate plates. Elution in 100 µL 10 mM Tris HCl pH 8.5 (Omega EB).
 
+**Note:** Some 25 mm filters were stored in 2x whirlpak bags, where the ethanol ended up leaking from the internal bag for all samples and could not be used. This was noted for these samples. Only the filter was used for extraction from these samples. In this case, the filter was removed from the bag, added to a deep well collection plate with 450 µL TL buffer, 40 µL ProtK was added, and then incubated at 56˚C overnight. Continued with the rest of the 25 mm filter protocol as described. 
 
+### Data management
+
+* Sample naming from OME (E#) system was kept. If there were two filters, or two independent half extractions from one filter, associated with one E# sample, then they've were called replicate A and replicate B in the quantification results. If there was only one extraction, then that data is listed under replicate A.
 
 ### Quality Control
 
-A negative control (field blank or extraction blank) is included in every 24 set of extractions (i.e., 23 samples + NC). Samples and controls are quantified to verify DNA concentration using the [NOAA-PMEL-OME-Qubit-Quantification-Protocol-BeBOP](https://github.com/HanWeinrich/NOAA-PMEL-OME-Qubit-Quantification-Protocol-BeBOP/blob/main/NOAA-PMEL-OME-Qubit-Quantification-Protocol-BeBOP.md). Lastly, samples are PCR amplified alongside no template and positive controls.
-
-**Recommended (not required):** OME splits all DNA extracts into three aliquots: a working stock for immediate use at -20°C (~20-30 µl) in a 1.5 mL tube; a backup stock at -20°C in case the working stock is finished or contaminated (~30-40 μL) in a 1.5 mL tube; and an archival stock in a 1.5 mL gasketed cryotubes and frozen at -80°C indefinitely (~40 µl). All are stored in labeled cryoboxes.
-
-### Basic Troubleshooting Guide
-
-**Issue 1:** Column clogging when pipetting sample/Buffer AL/EtOH mixture to spin columns
-
-**Solution:** If a sample is turbid, solids may survive the digestion and lysis steps. These solids can clog the spin column and trap liquid above the filter. If repeating the spin-down step does not fully drain liquid from the column, use a second fresh column for the remainder of the sample. Both spin columns are then run through the protocol, and the eluted DNA is combined.
-
-**Issue 2:** Bubbling of ATL out of sterivex upon addition
-
-**Solution 2:** If the pipette tip is improperly seated in the inlet of the sterivex when adding buffer ATL, the buffer can spray upwards out of the inlet, introducing potential contamination to other samples. Ensure that the pipette tip is fully seated inside the inlet and add buffer slowly to avoid overpressuring the sterivex. Suggest tilting the sterivex slightly to ensure the seal isn't too tight.
-
-**Issue 3:** Liquid on sides of collection tube after centrifuge step following Buffer AW2 addition
-
-**Solution 3:** Re-run the spin down step in a fresh spin column. No additional buffer AW2 is added. If the issue persists, move to a new collection tube and respin.
-
-Record troubleshooting notes and issues in the lab notebook.
+Negative controls (field blanks) were included in both cruises at the start, middle, and end of collection, and were included in the extraction plates. Samples and controls are quantified to verify DNA concentration (see Quant-iT dsDNA high sensitivity kit, linked above). Lastly, samples are PCR amplified alongside no template and positive controls.
 
 ## REFERENCES
 
 Spens, J., Evans, A. R., Halfmaerten, D., Knudsen, S. W., Sengupta, M. E., Mak, S. S. T., Sigsgaard, E. E., & Hellström, M. (2017). Comparison of capture and storage methods for aqueous macrobial eDNA using an optimized extraction protocol: the advantage of an enclosed filter. Methods in Ecology and Evolution, 8 (5), 635-645. https://doi.org/10.1111/2041-210X.12683
-
-## APPENDIX A: DATASHEETS
-
-[OME_Extraction_Protocol_Sterivex_Centrifuge_ProtocolSheet_Draft1](https://docs.google.com/spreadsheets/d/1eV9ZGLAssunCY_ozVOMbVEWWGrlosp8IkIpnyM1dDEU/edit?pli=1#gid=0)
-
-## APPENDIX B: VIDEO & IMAGE FILES
-[NOAA-PMEL-OME_Extraction_Protocol_Centrifuge_SterivexDiagrams](https://github.com/marinednadude/NOAA-PMEL-OME_Extraction_Protocol_Sterivex_Centrifuge/blob/main/NOAA-PMEL-OME_Extraction_Protocol_Centrifuge_SterivexDiagrams.pdf)
