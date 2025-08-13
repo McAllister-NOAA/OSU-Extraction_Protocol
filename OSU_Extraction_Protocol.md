@@ -162,58 +162,74 @@ TBD
 
 ## EQUIPMENT
 
-TBD
-
 - Description: E.g., "filter".
 - Product Name and Model: Provide the official name of the product.
 - Manufacturer: Provide the name of the manufacturer of the product.
 - Quantity: Provide quantities necessary for one application of the standard operating procedure (e.g., number of filters).
 - Remark: For example, some of the consumables may need to be sterilized, some commercial solutions may need to be diluted or shielded from light during the operating procedure.
 
-For a full extraction set, including 23 eDNA samples and a field blank:
+Minimal equipment list for described protocol:
 
 | DESCRIPTION | PRODUCT NAME AND MODEL | MANUFACTURER | QUANTITY | REMARK |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | **Durable equipment** |||||||
-|BioSafety II cabinet|Biological safety cabinet (INT-1100A2)|Kewaunee|1|Can be substituted with generic; internal UV light required.|
+| KingFisher Flex | KingFisher Flex Purification System with 96 Deep-well Head 5400630 | ThermoFisher | 1 | Robot for automation. Need accessories for 96-well magnet purification. |
+| Microplate reader | | | 1 | Can substitute Qubit fluorometer | 
+| Centrifuge | Eppendorf 5425/5430 R  | Fisher Scientific | 1 | Can be substituted with generic - needs to fit 5 mL tubes and 96-well plates. |
+| BioSafety II cabinet|Biological safety cabinet (INT-1100A2)|Kewaunee|1|Can be substituted with generic; internal UV light required.|
 | Heatshaker | Fisherbrand incubating mini-shaker | Fisher Scientific | 1 | Can be substituted with generic; hot bath not recommend for sterility reasons. |
-| Centrifuge | Eppendorf 5425 R  | Fisher Scientific | 1 | Can be substituted with generic - needs to fit 1.5 mL tubes. |
 | Vortex | Analog vortex mixer | Fisher Scientific | 1 | Can be substituted with generic. |
-| UV crosslinker | UV crosslinker AH (115V), 234100 | Boekel Scientific  | 1 | Recommended not required; can be substituted. |
 |-20°C freezer|TSX high-performance -20°C manual defrost freezer |Fisher Scientific|1|Can be substituted with generic but recommend temperature display.|
-|Pipettor: 20 - 200 μL	|Pipetman P200L|Gilson|	1|Can be substituted with any accurate pipettor.|
-|Pipettor: 100-1000 μL	|Pipetman P1000	|Gilson	|1|Can be substituted with any accurate pipettor.|
+| Pipettor: 1 - 10 µL | Pipetman P10 | Gilson | 1 | Can be substituted with any accurate pipettor.|
+| Pipettor: 20 - 200 μL	|Pipetman P200L | Gilson |	1 | Can be substituted with any accurate pipettor.|
+| Pipettor: 100-1000 μL	|Pipetman P1000	|Gilson	| 1 |Can be substituted with any accurate pipettor.|
 | Microtube racks | 96-Well flipper microtube racks | Fisher Scientific | 2 | Can be substituted with generic but must fit 1.5-2.0 mL tubes. |
 | 50 mL tube racks | SPL snap 50 mL tube rack (25 place) | SPL Life Sciences | 2 | Can be substituted but must fit sterivex. |
 | 4-way tube racks | 4 way interlocking tube rack| Cole-Parmer | 4 | Can be substituted with generic, must fit 12 x 5 mL tubes and 50 mL tubes. |
 |Trash bag holder|Bel-Art scienceware bench-top biohazard holders|Fisher Scientific|1|Can be substituted with generic.|
-|Wash bottles|Safety wash bottles 500 mL for EtOH and bleach|VWR|2|Can be substituted with generic, but recommend different colored bottles for each reagent. Must be sterilized before use. |
 |Cryoboxes|TruCool hinged lid cryoboxes|VWR|4|Can be substituted with generic, but recommend set color for eDNA. Must be sterilized before use. |
+| Sterile scalpal or scissors | Generic | Generic | 1 | To be used for cutting filters. Sterilize with bleach or flame or purchase pre-sterilized (gamma). |
 | **Consumable equipment** |
+| Quant-iT dsDNA high sensitivity kit | Invitrogen Q33232 | ThermoFisher | 1 per 1000 samples | Can substitute with Qubit quantification. |
+| 5 mL luer lock syringes | BD luer lock disposable syringe| BD | 2 per sterivex | Can be subsituted with generic. Must be sterile and luer lock. |
+| Sterivex/syringe caps | Male/female sterile luer caps | McKesson | 2 per sterivex | Can be substituted with generic, must be sterile and individually packaged. |
+| 5 mL tubes | DNA LoBind 5 mL PCR clean centrifuge tube | Eppendorf | 1 per sterivex/25mm/45mm filter | Can be substituted with generic, must be sterile/PCR clean |
+| Parafilm | Parafilm M - 5259-04LC PM996 All Purpose Laboratory Film | Parafilm | 1 | Can be substituted with generic. |
+| **Omega BioTek Blood and Tissue HDQ kit** | M6399 | Omega BioTek | 1 per 96 samples | See component needs below. |
+| TL buffer | PD061 | Omega BioTek | 900 µL per sterivex/45mm filter, 450 µL per 25mm filter | Omega BioTek Blood and Tissue HDQ kit comes with 30 mL per 96 rxns. |
+| Proteinase K  | AC116 | Omega BioTek | 100 µL per sterivex, 80 µL per 45mm, 40 µL per 25 mm filter | Omega BioTek Blood and Tissue HDQ kit comes with 2.2 mL per 96 rxns. Can be substituted with generic. |
+| AL buffer | AL-1000 | Omega BioTek | 870 µL per sterivex, 1160 µL per 45mm, 580 µL per 25mm filter | Omega BioTek Blood and Tissue HDQ kit comes with 35 mL per 96 rxns. |
+| HDQ Binding Buffer | HDQ-200 | Omega BioTek | 1200 µL per sterivex, 1600 µL per 45mm, 800 µL per 25mm filter | Omega BioTek Blood and Tissue HDQ kit comes with 10 mL per 96 rxns. |
+| HDQ Binding beads | Mag-Bind Particles HDQ | Omega BioTek | 20 µL per sterivex/25mm, 40 µL per 45mm filter  | Omega BioTek Blood and Tissue HDQ kit comes with 2.2 mL per 96 rxns. |
+
+
+
+
+|  |  |  |  |  |
+
+Sterivex per sample:
+   4 96-well deep well plate
+   10 uL PD090 RNase A 
+   100 uL 10 mM Tris HCl pH 8.5 (Omega EB)
+45 mm filter per sample:
+   4x 96-well deep well plate
+   2x 5 uL RNase A
+   2x 100 uL 10 mM Tris HCl pH 8.5 (Omega EB)
+25 mm filter per sample:
+   4x 96-well deep well plate
+   5 uL RNase A
+   100 uL 10 mM Tris HCl pH 8.5 (Omega EB)
+   
+   
+| 10 μL pipette tips  | TipOne RPT filter tips 10 μL graduated| USA Scientific | 96 | Can be subsituted with generic. Must be sterile and filtered. |
 | 200 μL pipette tips  | TipOne RPT filter tips 200 μL graduated| USA Scientific |96 | Can be subsituted with generic. Must be sterile and filtered. |
 | 1000 μL pipette tips  | TipOne RPT filter tips 1000 μL | USA Scientific |220 | Can be subsituted with generic. Must be sterile and filtered. |
-| 1.5 mL tubes | Snap cap DNA LoBind 1.5 mL tubes, PCR-clean| Eppendorf |24 | Can be substituted with generic. Must be sterile. |
-| 1.5 mL gasketed cryotubes | Screw cap gasketed 1.5 mL tubes, sterile| Corning |24 | Can be substituted with generic. Must be sterile. |
-| 5 mL tubes | DNA LoBind 5 mL PCR clean centrifuge tube | Eppendorf | 24 | Can be substituted with generic, must be sterile/PCR clean |
-| 50 mL falcon tubes | Falcon 50 mL high clarity conical centrifuge tube | Corning Falcon | 3 | Can be substituted with generic. Must be sterile. |
-| Sterivex/syringe caps | Male/female sterile luer caps |McKesson | 48 | Can be substituted with generic, must be sterile and individually packaged. |
-| 5 mL luer lock syringes | BD luer lock disposable syringe| BD | 24 | Can be subsituted with generic. Must be sterile and luer lock. |
 | Kimwipes | Delicate task wipes | Kimtech | 5 | Can be substituted with generic. Must be lint-free.|
 | Nitrile gloves | Powder free nitrile gloves | Fisher Scientific | 8 | Can be subsituted with generic nitrile gloves. Does not come sterile; must be sterilized before use.|
 | Lab notebook | Durable, hardcover lab notebook | Generic | 1 | Dedicated to the lab space|
 | Writing utensils | Sharpies and pens | Generic | 2 | Dedicated to the lab extraction space. Not made of wood - must be able to be wiped down with bleach/EtOH.  |
 |Trash bags for BSC|Teivio 1.2 Gallon 360 Counts Strong Trash Bags|Teivio|3|Can be substituted with generic.|
 | **QIAGEN Extraction Kit** | Qiagen DNeasy Blood and Tissue Kit - 250 extractions | QIAGEN | 1 | For this protocol at scale (i.e., 250 samples), additional volumes of some buffers need to be purchased.|
-| *QIAGEN kit consumables* |  |  |  |  |
-| Spin columns | Mini spin column | **Included in kit** | 24 | Kit contains 250 columns - sufficient for 250 extractions using this protocol) |
-| Collection tubes | 2 mL collection tube | **Included in kit**| 48 | Kit contains 500 tubes - sufficient for 250 extractions using this protocol) |
-| *QIAGEN kit chemicals* |  |  |  |  |
-| Buffer ATL | QIAGEN Buffer ATL | **Included in kit, may need to purchase additional** | 17.28 mL | Kit contains 50 mL  - sufficient for 69 extractions using this protocol; require 200 mL total for 250 extractions. |
-| Proteinase K | Qiagen Proteinase K | **Included in kit, may need to purchase additional** | 1920  μL  | Kit contains 6 mL - sufficient for 75 extractions using this protocol; require 20 mL total for 250 extractions. |
-| Buffer AL | Qiagen Buffer AL | **Included in kit, may need to purchase additional** | 21.6 mL | Kit contains 66 mL - sufficient for 73 extractions using this protocol; require 225 mL total for 250 extractions. |
-| Buffer AW1 | Qiagen Buffer AW1 | **Included in kit** | 12 mL | Kit contains 98 mL concentrate - sufficient for 250 extractions using this protocol. **Mix with 100% molecular grade EtOH before use, instructions on bottle** |
-| Buffer AW2 | Qiagen Buffer AW2| **Included in kit** | 12 mL| Kit contains 66 mL concentrate - sufficient for 250 extractions using this protocol. **Mix with 100% molecular grade EtOH before use, instructions on bottle** |
-| Buffer AE | Qiagen Buffer AE | **Included in kit** | 2400 μL | Kit contains 120 mL - sufficient for 1200 extractions using this protocol. |
 | **Chemicals** |
 | 100% molecular grade EtOH | 200 proof molecular biology grade ethanol | Fisher Scientific | 30 mL|Can be substituted with generic, must be 200 proof and molecular biology grade |
 | 70% EtOH | Molecular biology grade ethanol | 20 mL |  |
@@ -226,6 +242,7 @@ For a full extraction set, including 23 eDNA samples and a field blank:
 * Reagents from Omega BioTek Blood and Tissue HDQ kit (M6399). After lysate was prepared, extractions run on KingFisher Flex (ThermoFisher) robot using deep 96-well plates and magnet.
 * Though elutions were done with 100 µL, the practical elution volume is 80 µL since the KingFisher Flex unavoidably removes some of the elution buffer when pulling the beads out. 
 * DNA quantified with Quant-iT dsDNA high sensitivity kit (ThermoFisher).
+* After extraction, all DNA should be stored at -20˚C for short term storage or -80˚C for long term storage. We suggest separating elution into an archival and working stock.
 
 ### For sterivex filters
 
