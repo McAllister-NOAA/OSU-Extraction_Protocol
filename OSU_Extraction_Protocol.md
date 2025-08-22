@@ -79,7 +79,7 @@ nucl_acid_ext_method_additional: not applicable
 | PROTOCOL NAME | LINK         | VERSION      | RELEASE DATE | INTERNAL/EXTERNAL |
 | ------------- | ------------ | ------------ | ------------ | ----------------- |
 | NOAA-PMEL-OME_Extraction_Protocol_Sterivex_Centrifuge | https://github.com/marinednadude/NOAA-PMEL-OME_Extraction_Protocol_Sterivex_Centrifuge | 1.1 | 2025-02-20 | Internal |
-| NOAA-PMEL-OME_Extraction_Protocol_DiscFilter_Centrifuge | https://github.com/HanWeinrich/NOAA-PMEL-OME_Extraction_Protocol_DiscFilter_Centrifuge | 1.1.0  | Internal |
+| NOAA-PMEL-OME_Extraction_Protocol_DiscFilter_Centrifuge | https://github.com/HanWeinrich/NOAA-PMEL-OME_Extraction_Protocol_DiscFilter_Centrifuge | 1.1.0 | 2025-08-22 | Internal |
 | Mag-Bind Blood & Tissue DNA HDQ 96 Kit| https://omegabiotek.com/product/tissue-and-blood-kit-genomic-dna-isolation-mag-bind-hdq-96 | Unavailable | Unavailable | External |
 | Quant-iT 1X dsDNA HS Assay Kit | https://assets.thermofisher.com/TFS-Assets/BID/manuals/MAN0017526_Quant_iT_1X_dsDNA_HS_Assay_Kit_UG.pdf | Unavailable | Unavailable | External |
 | Spens et al. 2017 |https://doi.org/10.1111/2041-210X.12683 | 1.0  | 2016-11-15  | External |
