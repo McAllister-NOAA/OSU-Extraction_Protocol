@@ -65,7 +65,7 @@ nucl_acid_ext_method_additional: not applicable
 | PREPARED BY All authors known to have contributed to the preparation of this protocol, including those who filled in the template.  | AFFILIATION | ORCID (visit https://orcid.org/ to register) | DATE |
 | ------------- | ------------- | ------------- | ------------- |
 | Sean McAllister	| Ocean Molecular Ecology, NOAA PMEL & UW CICOES	|0000-0001-6654-3495	| 2021-01-06 |
-| Katie Carter | Oregon State University, Center for Genome Research and Biocomputing (currently Center for Quantitative Life Sciences) | N/A | 2021-01-06 |
+| Katie Carter | OSU CGRB (currently CQLS) | N/A | 2021-01-06 |
 | Shannon Brown | Ocean Molecular Ecology, NOAA PMEL & UW CICOES  | 0000-0001-9808-2638 |2025-08-22|
 | Han Weinrich  | Ocean Molecular Ecology, NOAA PMEL & UW CICOES  | 0009-0007-6063-0986 |2025-08-22|
 
